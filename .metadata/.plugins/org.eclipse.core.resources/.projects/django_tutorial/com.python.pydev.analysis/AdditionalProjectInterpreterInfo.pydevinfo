@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\eeidle\Documents\GitHub\django_tutorial\.metadata\.plugins\org.eclipse.core.resources\.projects\django_tutorial\com.python.pydev.analysis\v2_indexcache
+django_tutorial.settings|1483198848044721000|C:\Users\eeidle\Documents\GitHub\django_tutorial\django_tutorial\django_tutorial\settings.py
+django_tutorial.wsgi|1483198847873120000|C:\Users\eeidle\Documents\GitHub\django_tutorial\django_tutorial\django_tutorial\wsgi.py
+django_tutorial.__init__|1483198847873120000|C:\Users\eeidle\Documents\GitHub\django_tutorial\django_tutorial\django_tutorial\__init__.py
+django_tutorial.urls|1483198847857520000|C:\Users\eeidle\Documents\GitHub\django_tutorial\django_tutorial\django_tutorial\urls.py
+manage|1483198847857520000|C:\Users\eeidle\Documents\GitHub\django_tutorial\django_tutorial\manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+1=django_tutorial.settings
+2=django_tutorial.wsgi
+3=django_tutorial.urls
+-- END DICTIONARY
+-- START TREE 1
+17
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!27@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,57 @@
+Jan 12, 2017 10:54:39 PM org.eclipse.analytics.plugin.AnalyticsStartupApp createLogFileHandler
+INFO: Analtycis plugin root looger initialized.
+Jan 12, 2017 10:54:39 PM org.eclipse.analytics.plugin.AnalyticsStartupApp$1 run
+INFO: Analytics plugin activated...
+Jan 12, 2017 10:54:39 PM org.eclipse.analytics.plugin.AnalyticsStartupApp$1 run
+INFO: Starting ericsson event logger.
+Jan 12, 2017 10:54:39 PM org.eclipse.analytics.control.session.SessionManager start
+INFO: Session manager started.....
+Jan 12, 2017 10:54:39 PM org.eclipse.analytics.control.freeze.FreezeManager start
+INFO: FreezeManager started...
+Jan 12, 2017 10:54:39 PM org.eclipse.analytics.control.freeze.FreezeDetector run
+INFO: FreezeDetector thread started...
+Jan 12, 2017 10:54:39 PM org.eclipse.analytics.control.session.SessionWatcher run
+INFO: SessionWatcher thread started...
+Jan 12, 2017 10:56:40 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSRootIUs&CreatedDate=1483199211239&RootIUs=com.ericsson.commonpref.lmitor.feature.group.v2.1.2.ericsson-15%2C+org.eclipse.fx.ide.feature.feature.group.v1.2.0.201501301049%2C+org.python.pydev.feature.feature.group.v4.5.5.201603221110%2C+org.python.pydev.feature.source.feature.group.v4.5.5.201603221110%2C+com.ericsson.eecs.single.sdk.ide.europe.v4.4.2.EECS-169%2C+org.eclipse.mylyn.gerrit.dashboard.feature.feature.group.v2.7.0.v20150526-1951%2C+org.python.pydev.mylyn.feature.feature.group.v0.6.0+
+Jan 12, 2017 10:56:40 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSRootIUs&CreatedDate=1484216085723&RootIUs=com.ericsson.commonpref.lmitor.feature.group.v2.1.2.ericsson-15%2C+org.eclipse.fx.ide.feature.feature.group.v1.2.0.201501301049%2C+org.python.pydev.feature.feature.group.v4.5.5.201603221110%2C+org.python.pydev.feature.source.feature.group.v4.5.5.201603221110%2C+com.ericsson.eecs.single.sdk.ide.europe.v4.4.2.EECS-169%2C+org.eclipse.mylyn.gerrit.dashboard.feature.feature.group.v2.7.0.v20150526-1951%2C+org.python.pydev.mylyn.feature.feature.group.v0.6.0+
+Jan 12, 2017 10:56:41 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSElementUsage&CreatedDate=1483199212187&ElementType=Command&CommandID=org.eclipse.ui.file.restartWorkbench&BundleID=org.eclipse.ui&BundleVersion=3.106.1.v20141002-1150&Count=1
+Jan 12, 2017 10:56:41 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSElementUsage&CreatedDate=1483199212187&ElementType=Command&CommandID=com.python.pydev.analysis.actions.pyGlobalsBrowserWorkbench&BundleID=com.python.pydev.analysis&BundleVersion=4.5.5.201603221110&Count=1
+Jan 12, 2017 10:56:41 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSElementUsage&CreatedDate=1483199212187&ElementType=Command&CommandID=org.eclipse.ui.edit.cut&BundleID=org.eclipse.ui&BundleVersion=3.106.1.v20141002-1150&Count=1
+Jan 12, 2017 10:56:42 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSElementUsage&CreatedDate=1483199212187&ElementType=View&CommandID=org.python.pydev.navigator.view&BundleID=org.python.pydev&BundleVersion=4.5.5.201603221110&Count=4
+Jan 12, 2017 10:56:42 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSElementUsage&CreatedDate=1483199212187&ElementType=Editor&CommandID=org.python.pydev.editor.PythonEditor&BundleID=org.python.pydev&BundleVersion=4.5.5.201603221110&Count=6
+Jan 12, 2017 10:56:43 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSElementUsage&CreatedDate=1484216087018&ElementType=View&CommandID=org.eclipse.jdt.ui.PackageExplorer&BundleID=org.eclipse.jdt.ui&BundleVersion=3.10.2.v20141014-1419&Count=1
+Jan 12, 2017 10:56:43 PM org.eclipse.analytics.control.usage.UsageManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSElementUsage&CreatedDate=1484216087018&ElementType=Editor&CommandID=org.python.pydev.editor.PythonEditor&BundleID=org.python.pydev&BundleVersion=4.5.5.201603221110&Count=5
+Jan 12, 2017 11:20:29 PM org.eclipse.analytics.control.session.SessionManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSSession&UserId=EEIDLE&ProductId=com.ericsson.eecs.single&ProductVersion=4.4.2&ProductName=EECS&Environment=eecs.mwp.win64&Workspace=C%3A%2FUsers%2Feeidle%2FDocuments%2FGitHub%2Fdjango_tutorial&HostName=192.168.1.8&JAVAVersion=1.8.0_40&JVMName=Java+HotSpot%28TM%29+64-Bit+Server+VM&JVMVersion=25.40-b25&JVMVendor=Oracle+Corporation&OSName=Windows+7&OSVersion=6.1&OSArchitecture=amd64&SessionStart=1484261680456&SessionEnd=1484262628111&SessionDuration=947655
+Jan 12, 2017 11:32:22 PM org.eclipse.analytics.control.session.SessionManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSSession&UserId=EEIDLE&ProductId=com.ericsson.eecs.single&ProductVersion=4.4.2&ProductName=EECS&Environment=eecs.mwp.win64&Workspace=C%3A%2FUsers%2Feeidle%2FDocuments%2FGitHub%2Fdjango_tutorial&HostName=192.168.1.8&JAVAVersion=1.8.0_40&JVMName=Java+HotSpot%28TM%29+64-Bit+Server+VM&JVMVersion=25.40-b25&JVMVendor=Oracle+Corporation&OSName=Windows+7&OSVersion=6.1&OSArchitecture=amd64&SessionStart=1484263340341&SessionEnd=1484263341059&SessionDuration=718
+Jan 13, 2017 12:13:39 AM org.eclipse.analytics.control.session.SessionManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSSession&UserId=EEIDLE&ProductId=com.ericsson.eecs.single&ProductVersion=4.4.2&ProductName=EECS&Environment=eecs.mwp.win64&Workspace=C%3A%2FUsers%2Feeidle%2FDocuments%2FGitHub%2Fdjango_tutorial&HostName=192.168.1.8&JAVAVersion=1.8.0_40&JVMName=Java+HotSpot%28TM%29+64-Bit+Server+VM&JVMVersion=25.40-b25&JVMVendor=Oracle+Corporation&OSName=Windows+7&OSVersion=6.1&OSArchitecture=amd64&SessionStart=1484265113693&SessionEnd=1484265817631&SessionDuration=703938
+Jan 13, 2017 9:28:17 AM org.eclipse.analytics.control.session.SessionManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSSession&UserId=EEIDLE&ProductId=com.ericsson.eecs.single&ProductVersion=4.4.2&ProductName=EECS&Environment=eecs.mwp.win64&Workspace=C%3A%2FUsers%2Feeidle%2FDocuments%2FGitHub%2Fdjango_tutorial&HostName=192.168.1.8&JAVAVersion=1.8.0_40&JVMName=Java+HotSpot%28TM%29+64-Bit+Server+VM&JVMVersion=25.40-b25&JVMVendor=Oracle+Corporation&OSName=Windows+7&OSVersion=6.1&OSArchitecture=amd64&SessionStart=1484299090964&SessionEnd=1484299096935&SessionDuration=5971
+Jan 13, 2017 11:15:27 AM org.eclipse.analytics.control.session.SessionManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSSession&UserId=EEIDLE&ProductId=com.ericsson.eecs.single&ProductVersion=4.4.2&ProductName=EECS&Environment=eecs.mwp.win64&Workspace=C%3A%2FUsers%2Feeidle%2FDocuments%2FGitHub%2Fdjango_tutorial&HostName=192.168.1.8&JAVAVersion=1.8.0_40&JVMName=Java+HotSpot%28TM%29+64-Bit+Server+VM&JVMVersion=25.40-b25&JVMVendor=Oracle+Corporation&OSName=Windows+7&OSVersion=6.1&OSArchitecture=amd64&SessionStart=1484305337597&SessionEnd=1484305343241&SessionDuration=5644
+Jan 13, 2017 5:57:02 PM org.eclipse.analytics.control.freeze.FreezeDetector run
+WARNING: Error occured in FreezeDetector thread: 
+java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOf(Unknown Source)
+	at java.lang.AbstractStringBuilder.expandCapacity(Unknown Source)
+	at java.lang.AbstractStringBuilder.ensureCapacityInternal(Unknown Source)
+	at java.lang.AbstractStringBuilder.append(Unknown Source)
+	at java.lang.StringBuilder.append(Unknown Source)
+	at java.lang.StringBuilder.append(Unknown Source)
+	at org.eclipse.analytics.util.Utilities.getThreadStackTraces(Utilities.java:294)
+	at org.eclipse.analytics.control.freeze.Collector.perform(Collector.java:25)
+	at org.eclipse.analytics.control.freeze.FreezeDetector.run(FreezeDetector.java:78)
+
+Jan 13, 2017 9:49:49 PM org.eclipse.analytics.control.session.SessionManager persist
+INFO: successfully pushed: http://camo.insight.rnd.ericsson.se/dispatcher/doc/create?object=EECSSession&UserId=EEIDLE&ProductId=com.ericsson.eecs.single&ProductVersion=4.4.2&ProductName=EECS&Environment=eecs.mwp.win64&Workspace=C%3A%2FUsers%2Feeidle%2FDocuments%2FGitHub%2Fdjango_tutorial&HostName=192.168.1.8&JAVAVersion=1.8.0_40&JVMName=Java+HotSpot%28TM%29+64-Bit+Server+VM&JVMVersion=25.40-b25&JVMVendor=Oracle+Corporation&OSName=Windows+7&OSVersion=6.1&OSArchitecture=amd64&SessionStart=1484343569857&SessionEnd=1484343587337&SessionDuration=17480
